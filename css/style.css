@@ -1,0 +1,5 @@
+body {margin: 0 auto; font-size:62.5%; font-family : arial; background:#acacac; width:80%}
+.message {font-size:0.7em; background : white; padding : 1%; margin-top: 2%;}
+#result, .neutral {font-size:0.7em; border : 4px solid #3b93ff;}
+.error{font-size:0.7em; border : 4px solid red;}
+.success{font-size:0.7em; border : 4px solid green;}
